@@ -12,6 +12,8 @@ class fileAdminView extends file
 	 */
 	function init()
 	{
+$a = 1;
+$b = 2;
 	}
 
 	/**
