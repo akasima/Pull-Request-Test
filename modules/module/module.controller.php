@@ -7,11 +7,13 @@
  */
 class moduleController extends module
 {
+	var $flag = FALSE;
 	/**
 	 * @brief Initialization
 	 */
 	function init()
 	{
+		$this->flag = TRUE;
 	}
 
 	/**
