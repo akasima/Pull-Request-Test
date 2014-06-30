@@ -17,7 +17,7 @@ class boardView extends board
 	 **/
 	function init()
 	{
-		$a= 1;
+		$a = 1;
 		$b = 1;
 		$oSecurity = new Security();
 		$oSecurity->encodeHTML('document_srl', 'comment_srl', 'vid', 'mid', 'page', 'category', 'search_target', 'search_keyword', 'sort_index', 'order_type', 'trackback_srl');
