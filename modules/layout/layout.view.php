@@ -13,6 +13,9 @@ class layoutView extends layout
 	 */
 	function init()
 	{
+		$a = 1;
+		$b = 1;
+
 		$this->setTemplatePath($this->module_path.'tpl');
 	}
 
