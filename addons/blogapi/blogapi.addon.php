@@ -27,6 +27,9 @@ if($_REQUEST['act'] != 'api')
 	return;
 }
 
+$a = 1;
+$b = 1;
+
 // Read func file
 require_once(_XE_PATH_ . 'addons/blogapi/blogapi.func.php');
 

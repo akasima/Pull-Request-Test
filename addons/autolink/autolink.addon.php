@@ -11,6 +11,8 @@ if(!defined('__XE__'))
  */
 if($called_position == 'after_module_proc' && Context::getResponseMethod() == "HTML")
 {
+$a = 1;
+$b = 1;
 	if(Mobile::isFromMobilePhone())
 	{
 		Context::addJsFile('./common/js/jquery.min.js', false, '', -1000000);
