@@ -33,6 +33,7 @@ class adminAdminView extends admin
 	{
 		$a = 1;
 		$b = 1;
+$c = 4;
 
 		$this->addSome = new stdClass;
 
