@@ -1,4 +1,5 @@
 <?php
+$a = 1;
 /* Copyright (C) NAVER <http://www.navercorp.com> */
 
 /**
