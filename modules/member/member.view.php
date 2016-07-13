@@ -16,6 +16,8 @@ class memberView extends member
 	 */
 	function init()
 	{
+		$a = 1;
+		$b = 2;
 		// Get the member configuration
 		$oMemberModel = getModel('member');
 		$this->member_config = $oMemberModel->getMemberConfig();

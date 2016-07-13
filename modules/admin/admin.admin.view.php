@@ -17,6 +17,7 @@ class adminAdminView extends admin
 	 * @var array
 	 */
 	var $layout_list;
+	var $addSome;
 
 	/**
 	 * easy install check file
@@ -30,6 +31,12 @@ class adminAdminView extends admin
 	 */
 	function init()
 	{
+		$a = 1;
+		$b = 1;
+$c = 4;
+
+		$this->addSome = new stdClass;
+
 		// forbit access if the user is not an administrator
 		$oMemberModel = getModel('member');
 		$logged_info = $oMemberModel->getLoggedInfo();
