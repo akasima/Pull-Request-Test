@@ -14,7 +14,6 @@ class moduleView extends module
 	{
 		// Set the template path
 		$this->setTemplatePath($this->module_path.'tpl');
-$a =3;
 	}
 
 	/**

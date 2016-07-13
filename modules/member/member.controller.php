@@ -13,7 +13,6 @@ class memberController extends member
 	 * @var object
 	 */
 	var $memberInfo;
-	var $arrTmp;
 
 	/**
 	 * Initialization
@@ -22,7 +21,6 @@ class memberController extends member
 	 */
 	function init()
 	{
-		$this->arrTmp = array();
 	}
 
 	/**

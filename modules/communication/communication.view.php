@@ -1,6 +1,4 @@
 <?php
-$a = 4
-;
 /* Copyright (C) NAVER <http://www.navercorp.com> */
 
 /**
