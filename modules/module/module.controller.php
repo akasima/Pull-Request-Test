@@ -1,5 +1,4 @@
 <?php
-$a = 1;
 /* Copyright (C) NAVER <http://www.navercorp.com> */
 /**
  * @class  moduleController
@@ -8,13 +7,11 @@ $a = 1;
  */
 class moduleController extends module
 {
-	var $flag = FALSE;
 	/**
 	 * @brief Initialization
 	 */
 	function init()
 	{
-		$this->flag = TRUE;
 	}
 
 	/**

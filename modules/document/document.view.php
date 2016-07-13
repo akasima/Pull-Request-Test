@@ -1,5 +1,4 @@
 <?php
-$a =2;
 /* Copyright (C) NAVER <http://www.navercorp.com> */
 /**
  * documentView class
