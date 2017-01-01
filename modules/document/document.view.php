@@ -1,5 +1,6 @@
 <?php
 $a =2;
+$b =awef;
 /* Copyright (C) NAVER <http://www.navercorp.com> */
 /**
  * documentView class
