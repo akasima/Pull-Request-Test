@@ -1,4 +1,3 @@
-test...
 <?php
 /* Copyright (C) NAVER <http://www.navercorp.com> */
 /**
@@ -7,7 +6,7 @@ test...
  * @brief View class of member module
  */
 
-//전종욱 테스트 중 
+// pr test
 
 class memberView extends member
 {
