@@ -6,6 +6,8 @@ $a = 1;
  * @author NAVER (developers@xpressengine.com)
  * @brief controller class of the module module
  */
+
+// 추가추가
 class moduleController extends module
 {
 	var $flag = FALSE;
