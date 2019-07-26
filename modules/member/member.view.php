@@ -1,4 +1,6 @@
 2019.07.26 pull request 테스트 해봅니다.
+2019.07.26 pull request 보냈고, 또 수정해서 보냅니다.
+
 test...
 <?php
 /* Copyright (C) NAVER <http://www.navercorp.com> */
